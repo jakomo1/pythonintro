@@ -4,4 +4,4 @@ print("bla"+"fasel2")
 def say_hello(name):
     print("Hello", name)
 
-say_hello("Tom")
+say_hello("Tom and Jak")
