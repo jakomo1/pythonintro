@@ -1,5 +1,5 @@
-print(3+4)
-print("bla"+"fasel2")
+print(3+4/2)
+print("bla"+"fasel")
 
 def say_hello(name):
     print("Hello", name)
